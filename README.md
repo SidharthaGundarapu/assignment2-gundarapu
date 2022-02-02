@@ -29,3 +29,14 @@ The closest airport to the Paradise is Rajiv Ghandi International Airport, Hyder
 -Beverage's
 -And i would recommend others to have the biryani as it is famous.
 [AboutMe](https://github.com/SidharthaGundarapu/assignment2-gundarapu/blob/main/AboutMe.md)
+
+---
+#### Table Section
+---
+The Table gives the information of gamename, location, money for the equipment.
+| Game Name | Location | Money
+| --- | --- | ---
+| Cricket | Wankhede | 250$
+| Football | Manchester | 200$
+| Pingpong | Lion's club | 150$
+| Golf | The Golf club | 100$

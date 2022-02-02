@@ -40,3 +40,14 @@ The Table gives the information of gamename, location, money for the equipment.
 | Football | Manchester | 200$
 | Pingpong | Lion's club | 150$
 | Golf | The Golf club | 100$
+
+---
+##### Quote Section
+---
+> "Mathematicians deal with large numbers sometimes, but never in their income".
+
+*Issac Asimov*
+
+> “One doesn't expect a falcon to pull a plow, or a butterfly to cook your breakfast”.
+
+*Katherine Blake*
